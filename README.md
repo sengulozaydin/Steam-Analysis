@@ -68,6 +68,26 @@ This project was developed by a team of five and included the following areas::
 
 ## Dashboard Visualizations
 
+### Player Behavior Analysis
+
+![Player Behavior Analysis](images/player_behavior_analysis.png)
+
+### Player Segmentation Analysis
+
+![Player Segmentation Analysis](images/player_segmentation_analysis.png)
+
+### Player Lifetime and Engagement
+
+![Player Lifetime and Engagement](images/player_lifetime_engagement.png)
+
+### Player Lifetime and Engagement (Additional View)
+
+![Player Lifetime and Engagement 2](images/player_lifetime_engagement%202.png)
+
+### Game Activity and Achievement Relationship
+
+![Game Activity and Achievement Relationship](images/game_activity_achievement_relationship.png)
+
 
 
 
