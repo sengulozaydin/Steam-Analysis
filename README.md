@@ -89,6 +89,13 @@ This project was developed by a team of five and included the following areas::
 ![Game Activity & Achievement Relationship](images/game_activity_achievement_relationship.png)
 
 
+## Interactive Dashboard
+
+View the interactive dashboard here:
+
+[Steam Data Analytics Dashboard](https://datastudio.google.com/s/sU7NT75CReE)
+
+
 
 
 
