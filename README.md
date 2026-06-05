@@ -64,3 +64,14 @@ This project was developed by a team of five and included the following areas::
 - Statistical testing showed that hardcore players earn significantly more achievements than casual players.
 - K-Means clustering revealed distinct casual, active, and hardcore player segments.
 - Longer player lifetime was associated with higher activity and achievement levels.
+
+
+## Dashboard Visualizations
+
+
+
+
+
+
+
+
