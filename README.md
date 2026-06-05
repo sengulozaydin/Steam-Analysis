@@ -39,6 +39,7 @@ This project was developed by a team of five and included the following areas::
 - Pandas
 - Scikit-learn
 - Statistical Analysis
+  
 
  ## Methods Used
 
@@ -54,6 +55,7 @@ This project was developed by a team of five and included the following areas::
 ### Data Visualization
 - Data Studio Dashboards
 - Player Segmentation Visualizations
+  
 
 ## Key Findings
 
