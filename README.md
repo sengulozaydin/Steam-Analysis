@@ -76,17 +76,17 @@ This project was developed by a team of five and included the following areas::
 
 ![Player Segmentation Analysis](images/player_segmentation_analysis.png)
 
-### Player Lifetime and Engagement
+### Player Lifetime & Engagement
 
-![Player Lifetime and Engagement](images/player_lifetime_engagement.png)
+![Player Lifetime & Engagement](images/player_lifetime_engagement.png)
 
-### Player Lifetime and Engagement (Additional View)
+### Player Lifetime & Engagement Results
 
-![Player Lifetime and Engagement 2](images/player_lifetime_engagement%202.png)
+![Player Lifetime & Engagement Results](images/player_lifetime_engagement_2.png)
 
-### Game Activity and Achievement Relationship
+### Game Activity & Achievement Relationship
 
-![Game Activity and Achievement Relationship](images/game_activity_achievement_relationship.png)
+![Game Activity & Achievement Relationship](images/game_activity_achievement_relationship.png)
 
 
 
