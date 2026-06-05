@@ -96,6 +96,13 @@ View the interactive dashboard here:
 [Steam Data Analytics Dashboard](https://datastudio.google.com/s/sU7NT75CReE)
 
 
+## Team Project Repository
+
+This project was developed as part of a team. The complete dbt models, SQL transformations, and project structure can be found here:
+
+https://github.com/Steam-analysis/steam-analysis
+
+
 
 
 
