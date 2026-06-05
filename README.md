@@ -40,7 +40,7 @@ This project was developed by a team of five and included the following areas::
 - Scikit-learn
 - Statistical Analysis
 
-- ## Methods Used
+ ## Methods Used
 
 ### Statistical Analysis
 - Correlation Analysis
