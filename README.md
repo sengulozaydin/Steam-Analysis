@@ -1,4 +1,4 @@
-# Steam-Analysis
+# Steam Analysis
 Team-based Data Analytics and Data Science project analyzing Steam platform data using BigQuery, dbt, Data Studio, Python, statistical analysis, and machine learning.
 
 
